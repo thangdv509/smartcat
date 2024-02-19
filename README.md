@@ -6,7 +6,7 @@ This project run in Polygon blockchain network.
 
 More information: https://www.smartlayer.network/smartcat
 
-<img width="688" alt="Screenshot 2024-01-31 at 12 18 15" src="https://github.com/thangdv509/auto-tool-smartCat/assets/74363928/36e08ebe-7926-48ed-b5c7-618d8a566a5c">
+<img width="693" alt="Screenshot 2024-02-19 at 14 49 21" src="https://github.com/thangdv509/smartcat/assets/74363928/6313841b-21d3-41b2-aa16-e41bc720cb8c">
 
 ## What we need?
 
